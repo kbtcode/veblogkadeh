@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "id": "4892",
+      "title": "how to create react app",
+      "author": "mohamad hosseini",
+      "about": "in this post we are here to create react web app"
+    },
+    {
+      "id": "489324342",
+      "title": "why use ai in programming",
+      "author": "elyas sharifi",
+      "about": "today ai is have big progress and this amazing techno"
+    },
+    {
+      "id": "482392",
+      "title": "typeScript is the best program language",
+      "author": "mahdi gherat",
+      "about": "like status github ai is the best language programming for use"
+    },
+    {
+      "id": "483492",
+      "title": "how to create react app",
+      "author": "ilia shamsifar",
+      "about": "in this post we are here to create react web app"
+    },
+    {
+      "id": "48923222",
+      "title": "how to create react app",
+      "author": "karim majidzadeh",
+      "about": "in this post we are here to create react web app"
+    },
+    {
+      "id": "d4c48374-5d67-442a-a01f-8794d74fd35c",
+      "title": "update next.js 16.1",
+      "author": "iman shojaei",
+      "about": "next js 16.1 have update for the new dangerous bug"
+    },
+    {
+      "id": "bfe69467-b4a6-4fcc-aa87-574de95484bd",
+      "title": "how to coding in js",
+      "author": "omid keyhani",
+      "about": "how to coding in js and new feathure in ES7"
+    },
+    {
+      "id": "b0c2ae35-6b8c-4f84-9342-ba9c26901e6f",
+      "title": "dangerous bog in react",
+      "author": "iman ghadiri",
+      "about": "the new update we see a new bug in react "
+    },
+    {
+      "id": "08d66bb7-7bc3-4411-b269-2dfc7e6788d1",
+      "title": "developer salary in 2026",
+      "author": "peyman karami",
+      "about": "developer salary is need to skills and expereince"
+    }
+  ]
+}
