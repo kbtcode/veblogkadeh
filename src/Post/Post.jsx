@@ -12,7 +12,6 @@ const navigate = useNavigate()
 
 const editId = postId.replace(':', '')
 
-console.log(editId);
 
 
 useEffect(function(){
@@ -21,10 +20,8 @@ async function fetchpost(){
 
    try{ 
     const data = await getpost();
-    console.log(data);
     
     const SelectedPost = data.find((post) => String(post.id) === editId);
-    console.log(SelectedPost);
     
     setPost(SelectedPost);
    }catch{

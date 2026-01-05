@@ -6,7 +6,6 @@ function Userpage() {
     
     const user = useSelector(state => state.name.user)
 
- console.log(user);
 
  const { name , email , password } = user 
  
