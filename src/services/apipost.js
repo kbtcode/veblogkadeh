@@ -1,6 +1,10 @@
 
 
-const URL = 'http://localhost:8500'
+const URL = import.meta.env.VITE_URL
+
+
+
+console.log(URL);
 
 
 export async function getpost(){
